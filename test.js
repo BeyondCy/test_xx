@@ -1,1 +1,1 @@
-alert("Hello\nHow are you?");
+window.alert("sometext");
